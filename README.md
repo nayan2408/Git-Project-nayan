@@ -13,8 +13,3 @@ iugfieugf ehfiuh giuggiS1
 ## Projects
 -git skill: first project
 -git skill1: second project
-
-
-## Social Links
--Github: https://github.com/nayan2408
--LinkedIn: www.linkedin.com/in/nayan-joshi-ugsot
