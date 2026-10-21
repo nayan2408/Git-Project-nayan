@@ -13,3 +13,6 @@ iugfieugf ehfiuh giuggiS1
 ## Projects
 -git skill: first project
 -git skill1: second project
+
+## Contact 
+-Email: your-email@example.com
