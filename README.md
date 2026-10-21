@@ -9,3 +9,7 @@ iugfieugf ehfiuh giuggiS1
 -Communication
 -Problem Solving
 -Basic Git
+
+## Projects
+-git skill: first project
+-git skill1: second project
